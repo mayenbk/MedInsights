@@ -15,7 +15,7 @@ A simple bar chart visualizing patient visits per department, demonstrating init
 
 ---
 
-## 🧠 About the Project
+## About the Project
 MedInsight Analytics is an independent learning and innovation initiative that connects my background in biomedical engineering with my growing skills in AI, data, and cybersecurity.  
 The goal is to show how health data can be analysed and presented clearly to support better outcomes.
 
